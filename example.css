@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*** test
+ multi-line
+ comment ***/
+
+header {
+    font-weight: 600;
+    text-align: center;
+}
+
+
+/* TODO: detect this whitespace and delete others */
+header ul li {
+    font-size: 2em;
+}
